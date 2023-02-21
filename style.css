@@ -1,0 +1,38 @@
+body{
+    background-color: burlywood;
+    
+}
+div{
+    background-color: rgb(0, 183, 255);
+    text-align: center;
+}
+p.verde{
+    color: green;
+}
+a{ 
+    color: green;
+}
+div#contacto{
+    background-color: rgb(0, 183, 255);
+    text-align: left;
+}
+div.genero{
+    text-align: left;
+}
+div.lenguaje{
+    text-align: left;
+}
+div.Observaciones{
+text-align: left;
+}
+
+div.texto1{
+    float: left;
+    background-color: aliceblue;
+    border: 2px;color: blue;
+}
+div.texto2{
+    float: right;
+    background-color: blue(240, 250, 255);
+    border: 2px;color:red;
+}
